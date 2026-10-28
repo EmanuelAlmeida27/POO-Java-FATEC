@@ -13,7 +13,7 @@ Os projetos estão organizados por data de aula:
 | `17_08` | Aula 17/08 |
 | `18_08` | Aula 18/08 |
 | `24_08` | Aula 24/08 |
-| `25_08_faltei_neste_dia` | Aula 25/08 (faltei) |
+| `25_08` | Aula 25/08 |
 | `31_08` | Aula 31/08 |
 | `01_09` | Aula 01/09 |
 | `08_09` | Aula 08/09 |
